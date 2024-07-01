@@ -33,6 +33,6 @@ The provided PowerShell script is a file integrity monitoring tool that allows u
        - An existing file is modified.
        - An existing file is deleted.
 
-### Use Case
+### Use Case of FIM
 
 This script is useful for environments where maintaining file integrity is crucial, such as in cybersecurity, data integrity monitoring, and compliance auditing. It ensures that any unauthorized changes to critical files are detected promptly, enhancing the security and reliability of the system.
